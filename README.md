@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi, I'm Hannah! 👋
+## 👩‍💻 About Me
 
-<!--
-**hmathew/hmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Information Systems student at **Baruch College (CUNY)** with a **3.95 GPA** and a member of the **Baruch Honors Program**. I'm passionate about using **AI and data analytics** to solve real-world business problems.
 
-Here are some ideas to get you started:
+Currently, I'm a **Technology Consulting Analyst Intern at Accenture**, where I customize pre-existing tools into reusable predictive tools and leverage generative AI to streamline development workflows. I'm also a **Break Through Tech AI Fellow**, expanding my skills in machine learning and data science through hands-on projects and mentorship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- C#
+
+### Tools & Technologies
+- GitHub
+- AWS Cloud
+- Power BI
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+- Microsoft Outlook
+
+### Currently Learning
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Technology Consulting
+
+### Certifications
+- ☁️ AWS Certified Cloud Practitioner
+- 📊 Cisco Data Analytics Essentials
+
+---
+
+## 🚀 Key Projects
+
+### 🌐 Personal Website & Personality Quiz
+**Tech:** HTML, CSS, JavaScript
+
+Designed and built a responsive personal website, interactive personality quiz, and my cause website during the Girls Who Code Summer Immersion Program.
+
+🔗 *https://github.com/hmathew/Hannah-s-Personal-Website*
+🔗 *https://github.com/hmathew/Personality-Quiz*
+🔗 *https://github.com/hmathew/Abortion-Website-GWC*
+
+
+## 🌟 Extracurriculars & Leadership
+
+- 🤖 Break Through Tech AI Fellow
+- 💼 Senior Business Analyst, Consult Your Community (CYC)
+- 🧠 Secretary, Baruch Machine Learning & Data Science Club
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **hmathewny@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/hannah-mathew-842b35245/**
+- 💻 GitHub: **https://github.com/hmathew**
