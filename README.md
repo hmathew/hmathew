@@ -61,5 +61,5 @@ Designed and built a responsive personal website, interactive personality quiz, 
 ## 📫 Contact
 
 - 📧 Email: **hmathewny@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/hannah-mathew-842b35245/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/hannahmathew-cis/**
 - 💻 GitHub: **https://github.com/hmathew**
